@@ -12,3 +12,9 @@
 
 # Demo Site
  https://anjali2802.github.io/CountryAPI/
+
+<img width="874" alt="country_details" src="https://github.com/user-attachments/assets/2deccd89-8130-498b-8777-2b0add7ef798">
+<img width="897" alt="country-details2" src="https://github.com/user-attachments/assets/a5b962f4-74fc-4b64-ab87-1d15498f04f3">
+
+
+ 
