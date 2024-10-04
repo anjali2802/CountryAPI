@@ -8,7 +8,7 @@
 - **HTML** - For creating the basic structure of the application.
 - **CSS** - For styling the components and making the page visually appealing.
 - **JavaScript** - For adding functionality, fetching data from the API, and interacting with the DOM.
-- **REST API** - To fetch country information (e.g., [REST Countries API](https://restcountries.com)).
+- **REST API** - To fetch country information .
 
 # Demo Site
  https://anjali2802.github.io/CountryAPI/
